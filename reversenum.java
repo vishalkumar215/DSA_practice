@@ -10,7 +10,7 @@ public class reversenum {
              System.out.println(dig);
             
         }
-        return 0;
+    
         
     }
     public static void main(String args []){
